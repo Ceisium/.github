@@ -65,10 +65,7 @@ Track crawl status and discovered, indexed, skipped, and failed pages.
 
 Ceisium Search used the settings generated for this website, with no manual relevance adjustments. These results apply to this dated corpus and query set.
 
-[Read the benchmark, methodology, and fixed query set →](https://ceisium.com/benchmark/2026-11-08/)
+[Read the benchmark, methodology, and fixed query set →](https://ceisium.com/benchmark/)
 
 [Setup guide](https://ceisium.com/docs/) · [Published benchmark](https://ceisium.com/benchmark/) · [Latest updates](https://ceisium.com/changelog/)
 
----
-
-Ceisium is building infrastructure for growth and marketing teams. Ceisium Search is our first product.
