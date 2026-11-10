@@ -68,4 +68,3 @@ Ceisium Search used the settings generated for this website, with no manual rele
 [Read the benchmark, methodology, and fixed query set →](https://ceisium.com/benchmark/)
 
 [Setup guide](https://ceisium.com/docs/) · [Published benchmark](https://ceisium.com/benchmark/) · [Latest updates](https://ceisium.com/changelog/)
-
