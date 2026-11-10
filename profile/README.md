@@ -38,24 +38,34 @@ Add your website URLs, choose the pages to include, and connect the Search API t
 
 **Ceisium Search handles crawling, indexing, ranking, and scheduled updates as your website changes.** Your team can focus on its website and docs without ongoing manual relevance tuning.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>See what visitors search for.</h3>
-      <p>Inspect queries, search counts, and searches with no results.</p>
-      <a href="https://ceisium.com/developers/">
-        <img src="https://raw.githubusercontent.com/Ceisium/.github/main/profile/assets/analytics-dashboard.webp" alt="Ceisium Search query analytics dashboard." width="640">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>Keep content current.</h3>
-      <p>Track crawl status and discovered, indexed, skipped, and failed pages.</p>
-      <a href="https://ceisium.com/developers/">
-        <img src="https://raw.githubusercontent.com/Ceisium/.github/main/profile/assets/crawl-logs-dashboard.webp" alt="Ceisium Search crawl logs dashboard." width="640">
-      </a>
-    </td>
-  </tr>
-</table>
+## See what visitors search for.
+
+Inspect queries, search counts, and searches with no results.
+
+<a href="https://ceisium.com/developers/">
+  <img src="https://raw.githubusercontent.com/Ceisium/.github/main/profile/assets/analytics-dashboard.webp" alt="Ceisium Search query analytics dashboard." width="1280">
+</a>
+
+## Keep content current.
+
+Track crawl status and discovered, indexed, skipped, and failed pages.
+
+<a href="https://ceisium.com/developers/">
+  <img src="https://raw.githubusercontent.com/Ceisium/.github/main/profile/assets/crawl-logs-dashboard.webp" alt="Ceisium Search crawl logs dashboard." width="1280">
+</a>
+
+## Latest benchmark — 8 November 2026
+
+1,000 Next.js App Router documentation queries across 298 crawled pages, measured from India.
+
+- **98.1% Hit@3** — an expected page in the first three results for 981 of 1,000 queries.
+- **98.7% Hit@10** — an expected page in the first ten results.
+- **0.9415 MRR@10** and **0.9532 nDCG@10**.
+- **978 ms client P95**, **693 ms median**, and **0 failed requests**.
+
+Ceisium Search used the settings generated for this website, with no manual relevance adjustments. These results apply to this dated corpus and query set.
+
+[Read the benchmark, methodology, and fixed query set →](https://ceisium.com/benchmark/2026-11-08/)
 
 [Setup guide](https://ceisium.com/docs/) · [Published benchmark](https://ceisium.com/benchmark/) · [Latest updates](https://ceisium.com/changelog/)
 
